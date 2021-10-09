@@ -54,18 +54,18 @@ popupWindow.showAtAnchorView(it, getRelativeX(), getRelativeY(), 0, 0, isFullScr
 ```java
 public class IndicatorParams {
 
-    protected String text;					// 显示的文案
+    protected String text;			// 显示的文案
     protected int contentLayoutResId;		// 用于显示文案的layout
     protected int contentTextViewId;		// 用于显示文案内容的TextViewId
 
-    protected int arrowWidth = 10;			// 气泡箭头宽度
-    protected int arrowHeight = 10;			// 气泡箭头高度   
-    protected int arrowOffset;				// 气泡箭头相对于contentLayout的偏移量
+    protected int arrowWidth = 10;		// 气泡箭头宽度
+    protected int arrowHeight = 10;		// 气泡箭头高度   
+    protected int arrowOffset;			// 气泡箭头相对于contentLayout的偏移量
   
-    protected int bgRadius;					// contentLayout的圆角
+    protected int bgRadius;			// contentLayout的圆角
     protected int bgColor = Color.WHITE;	// contentLayout和箭头的颜色
-    protected int marginScreenHor;			// 屏幕横向预留边距
-    protected int marginScreenVer;			// 屏幕纵向预留边距
+    protected int marginScreenHor;		// 屏幕横向预留边距
+    protected int marginScreenVer;		// 屏幕纵向预留边距
 }
 ```
 
