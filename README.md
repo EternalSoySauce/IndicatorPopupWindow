@@ -1,5 +1,5 @@
 # IndicatorPopupWindow
-[![](https://jitpack.io/v/eternalsoysauce/IndicatorPopupWindow.svg)](https://jitpack.io/#eternalsoysauce/IndicatorPopupWindow)
+[![](https://jitpack.io/v/EternalSoySauce/IndicatorPopupWindow.svg)](https://jitpack.io/#eternalsoysauce/IndicatorPopupWindow)
 
 ### PopupWindow
 
