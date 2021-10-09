@@ -92,22 +92,26 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="26dp"
         android:layout_marginEnd="26dp"
+        android:checkedButton="@id/rb_left"
         app:layout_constraintBottom_toTopOf="@+id/btn_left_middle"
         app:layout_constraintEnd_toStartOf="@+id/radio_group_y"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn_left_top">
 
         <RadioButton
+            android:id="@+id/rb_left"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="left" />
 
         <RadioButton
+            android:id="@+id/rb_middle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="middle" />
 
         <RadioButton
+            android:id="@+id/rb_right"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="right" />
@@ -119,17 +123,20 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="26dp"
         android:layout_marginEnd="26dp"
+        android:checkedButton="@id/rb_top"
         app:layout_constraintBottom_toTopOf="@+id/btn_left_middle"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/radio_group_x"
         app:layout_constraintTop_toBottomOf="@+id/btn_left_top">
 
         <RadioButton
+            android:id="@+id/rb_top"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="top" />
 
         <RadioButton
+            android:id="@+id/rb_bottom"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="bottom" />
