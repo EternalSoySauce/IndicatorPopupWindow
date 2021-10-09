@@ -4,6 +4,7 @@ plugins {
     id 'com.github.dcendents.android-maven'
 }
 
+group='com.github.eternalsoysauce'
 android {
     compileSdkVersion compile_sdk_version
     buildToolsVersion build_tools_version
