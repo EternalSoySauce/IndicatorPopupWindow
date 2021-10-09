@@ -8,7 +8,7 @@
 
 ### 效果图
 
-![EasyPopup](https://github.com/eternalsoysauce/IndicatorPopupWindow/images/sample.gif)
+![IndicatorPopupWindow]https://github.com/EternalSoySauce/IndicatorPopupWindow/tree/main/images/sample.gif)
 
 ### 仓库依赖
 
